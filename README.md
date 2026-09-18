@@ -4,6 +4,17 @@
 - ver 0.1
 
 
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>내 첫 번째 웹사이트</title>
+</head>
+<body>
+    <h1>안녕하세요! 내 첫 웹사이트입니다.</h1>
+    <p>README.md 외에 index.html을 추가하여 만든 사이트입니다.</p>
+</body>
+</html>
 
 
 
